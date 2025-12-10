@@ -1,0 +1,41 @@
+Tareas realizadas por Integrante 1:
+
+1. Administración del repositorio en GitHub:
+   - Creación del repositorio público GRUPOXDAW25.
+   - Añadido de los otros dos integrantes como colaboradores para permitirles subir cambios.
+
+2. Subida de archivos al repositorio:
+   - Archivos de la vista: carpeta /app/templates.
+   - Archivos del front-end: carpetas web/css, web/js y web/images.
+
+3. Recogida de valoraciones de experiencia:
+   - Cada integrante proporcionó su valoración del proyecto y del trabajo en grupo.
+   - Se recopiló toda la información en un fichero valoraciones.txt.
+
+Tareas realizadas por Integrante 2:
+
+1. Despliegue del modelo y configuración de la base de datos en el hosting Alwaysdata:
+   - Creación de la base de datos nombredeusuariohosting_alimentosX2025.
+   - Ejecución de la creación de la tabla 'alimentos' mediante SQL.
+
+2. Subida de archivos al hosting mediante SSH y comandos GIT:
+   - Copia de los archivos necesarios del modelo (app/Model.php) al hosting.
+   - Organización de los archivos en la carpeta específica del proyecto en el hosting.
+
+3. Documentación de la instalación:
+   - Elaboración de un archivo instalacion.txt con las indicaciones y comandos usados para desplegar el proyecto.
+   - Subida de este archivo al repositorio GitHub para referencia del grupo.
+
+
+Tareas realizadas por Integrante 3:
+
+1. Modificación del archivo de configuración app/Config.php:
+   - Actualización de los parámetros de conexión a la base de datos proporcionados por el integrante 2.
+   - Definición de host, usuario, contraseña y nombre de la base de datos.
+
+2. Pruebas realizadas:
+   - Verificación de que la aplicación carga correctamente en el hosting.
+   - Comprobación de que la conexión con la base de datos funciona sin errores.
+
+3. URL del proyecto desplegado:
+   https://www.alimentos2025.com.mialias.net/
